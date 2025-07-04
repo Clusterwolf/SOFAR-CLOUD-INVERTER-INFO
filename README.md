@@ -64,7 +64,7 @@ Dieses Script:
 
 // English
 
-# Tampermonkey userscript: Emoji + serial number + animated spinner + notification
+# Tampermonkey userscript:
 
 ## 📝 Description
 
