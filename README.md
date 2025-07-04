@@ -38,7 +38,8 @@ Dieses Tampermonkey-Skript erweitert die SofarCloud-Weboberfläche mit einer cle
 
 1. **Tampermonkey-Erweiterung** installieren (falls noch nicht vorhanden).
 2. [Neues Userscript hinzufügen](https://www.tampermonkey.net/documentation.php?ext=dhdg#Q2).
-3. Den gesamten Skriptinhalt aus [`emoji-spinner-notify.user.js`](./emoji-spinner-notify.user.js) einfügen und speichern.
+3. Den gesamten Skriptinhalt aus [`SofarCloud.Inverter.INFO.js
+`] einfügen und speichern.
 4. Seite `https://eu.sofarcloud.com/deviceDetail/...` öffnen – das Script startet automatisch.
 
 ---
@@ -104,7 +105,8 @@ Displays an animated Unicode spinner (⠋⠙⠹…) in front of the serial numbe
 
 1. Install the **Tampermonkey extension** (if not already installed).
 2. [Add new userscript](https://www.tampermonkey.net/documentation.php?ext=dhdg#Q2).
-3. Paste the entire script content from [`emoji-spinner-notify.user.js`](./emoji-spinner-notify.user.js) and save.
+3. Paste the entire script content from [`SofarCloud.Inverter.INFO.js
+`] and save.
 4. Open the page `https://eu.sofarcloud.com/deviceDetail/...` – the script will start automatically.
 
 ---
