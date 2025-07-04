@@ -138,5 +138,4 @@ Feedback or suggestions for improvement are welcome!
 
 ### 📄 Licence
 
-MIT Licence – free to use with attribution.
-
+MIT Licence – free to use
